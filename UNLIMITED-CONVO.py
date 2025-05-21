@@ -1,5 +1,287 @@
-# Obfuscated with PyObfuscate
-# https://www.github.com/Rafaykhan20
-# Time : Thu Nov  7 05:26:45 2023
-# -------------------------------
-_ = lambda __ : __import__('marshal').loads(__import__('base64').b64decode(__[::-1]));exec((_)(b'=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KOkVKepdKuoAKuUF50VPJKgiXaniDZliDZliDZliDZliDZliDZliDZliDZliDZliXaniLKgi32MzsTMbtRbykzWbAAAAYbdOJQKAkHABAAAAAAAAEwqBQGAAAAAAAAAAEAdAcJAAAgGzDAAAMAAAAwAAAAAAAAAAAAAAAAAjBAAA8jcsQBAFEPGIUNNQqQiK8IDIwtPIQdPOA9VwaHqEAbYo6yFQ3CGTbGoNkZDfaAnHAZDIwNNIGAiHk4KTYdXbSFoXl5VfGFmdQBAWQfQAeQRJogAwbEgZ0g2AAIAAAQWzBAAAgGAAAQTy12buVmdFoNAAAQFyBCIgACAAAABzBAAAgicOFg25Fg2AAAA8IHBpAAAAQicAAAAjIHAAAgOyBAAAkjcAAAASIHAAAAIyVGdhJXZtVnbllg2HkyPpmZmZmZmaeGAAAAOyBAAAcjcAAAA2IHAAAQGypQkVKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKekVKuCKoQpdKOkVKOkVKOkVKOkVKOkVKOkVKOkVKOkVKOkVKepdKOIuFGaLBSehZWYSBiOgACIr92biV2YhZEIl2p4QWp4QWp4QWp4QWp4QWp4QWp4QWp4QWp4QWp4l2p4qogCl2p4QWp4QWp4QWp4QWp4QWp4QWp4QWp4QWp4QWp4l2p4gQEWgkVQGZUQSBiOgACIl1WYOBSpdKOkVKOkVKOkVKOkVKOkVKOkVKOkVKOkVKOkVKepdKuKKoQkVKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKegUKekVKuCKACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgAiCgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgACIgoAIgASnVKOkVKumVKOIgASnV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'))
+import hashlib
+import requests
+import time
+import os
+import random
+import json
+import threading
+import re
+import time
+from datetime import datetime
+from bs4 import BeautifulSoup as sop
+from itertools import cycle
+from urllib.parse import quote
+import random
+from platform import system
+
+def get_unique_id():
+    try:
+        return hashlib.sha256((str(os.getuid()) + os.getlogin()).encode()).hexdigest()
+    except Exception as e:
+        print(f"Error generating unique ID: {e}")
+        exit(1)
+
+def check_permission(unique_key):
+    while True:
+        try:
+            response = requests.get("https://pastebin.com/raw/fDheHFSw")
+            if response.status_code == 200:
+                data = response.text
+                permission_list = [line.strip() for line in data.split("\n") if line.strip().find(unique_key) != -1]
+                if not permission_list:
+                    print("\033[1;31mChecking Approval.....\033[0m")
+                    time.sleep(10)
+                else:
+                    print("\033[1;92m[√] Permission granted. Your Key Was Approved.\033[0m")
+                    break
+            else:
+                print(f"Failed to fetch permissions list. Status code: {response.status_code}")
+                time.sleep(10)
+        except Exception as e:
+            print(f"Error checking permission: {e}")
+            time.sleep(10)
+
+def send_approval_request(unique_key):
+    try:
+        input("\033[1;97m[•] Press enter to send approval Key:\033[0m")
+        message = f"< °Ellow•『THE °-° RAFFAY』 > Please Approve My Token is :: {unique_key}"
+        os.system(f"am start https://wa.me/+923034771607?text={quote(message)} >/dev/null 2>&1")
+        print("\033[1;97mWhatsApp opened with approval request. Waiting for approval...\033[0m")
+    except Exception as e:
+        print(f"Error sending approval request: {e}")
+        exit(1)
+
+def print_colored_logo(logo):
+    colors = [31, 32, 33, 34, 35, 36]  # ANSI color codes for red, green, yellow, blue, magenta, cyan
+    for line in logo.split("\n"):
+        color = random.choice(colors)
+        print(f"\033[1;{color}m{line}\033[0m")
+        time.sleep(0.1)  # Add delay for animation effect
+
+def pre_main():
+    logo = ''' 
+/$$$$$$$   /$$$$$$  /$$$$$$$$ /$$$$$$$$ /$$$$$$  /$$     /$$
+| $$__  $$ /$$__  $$| $$_____/| $$_____//$$__  $$|  $$   /$$/
+| $$  \ $$| $$  \ $$| $$      | $$     | $$  \ $$ \  $$ /$$/ 
+| $$$$$$$/| $$$$$$$$| $$$$$   | $$$$$  | $$$$$$$$  \  $$$$/  
+| $$__  $$| $$__  $$| $$__/   | $$__/  | $$__  $$   \  $$/   
+| $$  \ $$| $$  | $$| $$      | $$     | $$  | $$    | $$    
+| $$  | $$| $$  | $$| $$      | $$     | $$  | $$    | $$    
+|__/  |__/|__/  |__/|__/      |__/     |__/  |__/    |__/
+'''
+    unique_key = get_unique_id()
+    os.system('clear')
+    print_colored_logo(logo)
+    print('\033[1;97m•──────────────────────────────────────────────────────────────────────────────────────•\033[0m')
+    print(f"\033[1;92m[🔐] Your Key :: {unique_key}\033[0m")
+    print('\033[1;97m•──────────────────────────────────────────────────────────────────────────────────────•\033[0m')
+    send_approval_request(unique_key)
+    check_permission(unique_key)
+    
+pre_main()
+os.remove('filer.txt') if os.path.exists('filer.txt') else None
+
+# Clear the terminal based on OS
+def cls():
+    if system() == 'Linux' or system() == 'Darwin':
+        os.system('clear')
+    elif system() == 'Windows':
+        os.system('cls')
+
+cls()
+
+# Constants for colors and formatting
+RED = '\033[1;31m'
+RESET = '\033[0m'
+BLUE = "\033[1;34m"
+GREEN = "\033[1;32m"
+YELLOW = "\033[1;33m"
+
+# File for storing offline messages
+OFFLINE_MESSAGES_FILE = "offline_messages.json"
+
+# Function to display the venom banner
+def venom():
+    colors = [32, 33, 34]
+    y = '''
+ 
+██████╗  █████╗ ███████╗███████╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝
+██████╔╝███████║█████╗  █████╗  ███████║ ╚████╔╝ 
+██╔══██╗██╔══██║██╔══╝  ██╔══╝  ██╔══██║  ╚██╔╝  
+██║  ██║██║  ██║██║     ██║     ██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝   ╚═╝   
+                                                 
+                                              
+\n║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║\n\n*❥═════════❥ Name   : RAFFAY XD ❥═════════❥\n\n*❥═════════❥ Facebook   : Rafay Khan ❥═════════❥\n\n\n║━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━║\n'''
+    for N, line in enumerate(y.split("\n")):
+        print(f"\x1b[1;{random.choice(colors)}m{line}\033[0m")
+        time.sleep(0.05)
+venom()
+
+# Function to print the separator lines
+def liness():
+    print('\x1b[92m\033[1;33m•❥═════════❥•OWNER•❥═════════❥•RAFFAY•❥═════════❥•XD•❥═════════❥•\n')
+
+# Check internet connectivity by pinging an external site (Google)
+def is_online():
+    try:
+        requests.get('https://www.google.com', timeout=5)
+        return True
+    except requests.ConnectionError:
+        return False
+
+# Store messages to a file when offline
+def store_message(convo_id, access_token, message):
+    offline_data = []
+    # Load existing data from the file
+    if os.path.exists(OFFLINE_MESSAGES_FILE):
+        with open(OFFLINE_MESSAGES_FILE, 'r') as f:
+            try:
+                offline_data = json.load(f)
+            except json.JSONDecodeError:
+                offline_data = []
+    # Add new message data to the list
+    offline_data.append({
+        'convo_id': convo_id,
+        'access_token': access_token,
+        'message': message
+    })
+    # Save updated data to the file
+    with open(OFFLINE_MESSAGES_FILE, 'w') as f:
+        json.dump(offline_data, f)
+
+# Send stored messages once the system is online
+def send_stored_messages():
+    if os.path.exists(OFFLINE_MESSAGES_FILE):
+        with open(OFFLINE_MESSAGES_FILE, 'r') as f:
+            try:
+                offline_data = json.load(f)
+                for data in offline_data:
+                    send_message(data['convo_id'], data['access_token'], data['message'])
+            except json.JSONDecodeError:
+                print(f"{RED}Failed to read offline messages.{RESET}")
+            finally:
+                # Clear the file after processing messages
+                os.remove(OFFLINE_MESSAGES_FILE)
+
+# Send a message via Facebook Graph API
+def send_message(convo_id, access_token, message):
+    url = f"https://graph.facebook.com/v17.0/t_{convo_id}/"
+    parameters = {'access_token': access_token, 'message': message}
+    headers = {
+        'Connection': 'keep-alive',
+        'Cache-Control': 'max-age=0',
+        'Upgrade-Insecure-Requests': '1',
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 8.0.0; Samsung Galaxy S9 Build/OPR6.170623.017; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.125 Mobile Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate',
+        'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+        'referer': 'www.google.com'
+    }
+    try:
+        response = requests.post(url, json=parameters, headers=headers)
+        if response.ok:
+            print(f"{BLUE}[+] Message sent to Convo {convo_id}: {message}{RESET}")
+            return True
+        else:
+            print(f"{RED}[x] Failed to send message to Convo {convo_id}: {message}{RESET}")
+            return False
+    except requests.ConnectionError:
+        print(f"{YELLOW}[x] No internet connection. Storing message for later: {message}{RESET}")
+        store_message(convo_id, access_token, message)
+        return False
+
+# Thread function to handle sending messages for one conversation
+def handle_conversation(convo_id, tokens, messages, hater_name, delay):
+    message_index = 0
+    num_tokens = len(tokens)
+    num_messages = len(messages)
+
+    while True:  # Infinite loop to keep sending messages after one cycle is done
+        if message_index >= num_messages:
+            message_index = 0  # Reset to loop through messages again
+
+        token_index = message_index % num_tokens
+        access_token = tokens[token_index]
+        message = messages[message_index]
+
+        if is_online():
+            send_message(convo_id, access_token, message)
+        else:
+            store_message(convo_id, access_token, message)
+
+        time.sleep(delay)
+        message_index += 1
+
+# Function to send messages for multiple conversation IDs, tokens, messages, etc.
+def send_messages():
+    while True:  # Infinite loop to allow continuous operation
+        convo_ids = []
+        token_files = []
+        message_files = []
+        haters_names = []
+        time_delays = []
+
+        # Step 1: Get all conversation IDs
+        num_convos = int(input(f"{GREEN}How many conversations are you handling?: {RESET}"))
+        for i in range(num_convos):
+            convo_id = input(f"{GREEN}Enter Conversation ID {i+1}: {RESET}")
+            convo_ids.append(convo_id.strip())
+
+        # Step 2: Get token file paths for each conversation
+        for i in range(num_convos):
+            token_file = input(f"{GREEN}Enter Token File Path for Convo {i+1}: {RESET}")
+            token_files.append(token_file.strip())
+
+        # Step 3: Get message file paths for each conversation
+        for i in range(num_convos):
+            message_file = input(f"{GREEN}Enter Message File Path for Convo {i+1}: {RESET}")
+            message_files.append(message_file.strip())
+
+        # Step 4: Get hater's names for each conversation
+        for i in range(num_convos):
+            hater_name = input(f"{GREEN}Enter Hater's Name for Convo {i+1}: {RESET}")
+            haters_names.append(hater_name.strip())
+
+        # Step 5: Get time delays for each conversation
+        for i in range(num_convos):
+            delay = input(f"{GREEN}Enter Time Delay in seconds for Convo {i+1}: {RESET}")
+            time_delays.append(int(delay.strip()))
+
+        cls()
+        try:
+            # Prepare access tokens and messages for each convo
+            access_tokens_list = []
+            messages_list = []
+            for token_file in token_files:
+                with open(token_file, 'r') as file:
+                    tokens = file.readlines()
+                    access_tokens_list.append([token.strip() for token in tokens])
+
+            for message_file in message_files:
+                with open(message_file, 'r') as file:
+                    messages = file.readlines()
+                    messages_list.append([message.strip() for message in messages])
+        except FileNotFoundError as e:
+            print(f"Error: {e}")
+            return
+
+        # Step 6: Start threads for each conversation to send messages concurrently
+        threads = []
+        for i in range(num_convos):
+            convo_id = convo_ids[i]
+            tokens = access_tokens_list[i]
+            messages = messages_list[i]
+            hater_name = haters_names[i]
+            delay = time_delays[i]
+            thread = threading.Thread(target=handle_conversation, args=(convo_id, tokens, messages, hater_name, delay))
+            threads.append(thread)
+            thread.start()
+
+        # Step 7: Wait for all threads to finish (though in an infinite loop, they will run forever)
+        for thread in threads:
+            thread.join()
+
+# Start sending messages continuously
+send_messages()
