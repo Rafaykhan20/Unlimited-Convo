@@ -24,7 +24,7 @@ def get_unique_id():
 def check_permission(unique_key):
     while True:
         try:
-            response = requests.get("https://github.com/Rafaykhan20/Approval.txt/edit/main/Approval.txt")
+            response = requests.get("https://github.com/Rafaykhan20/Approval.txt/blob/main/approval.txt")
             if response.status_code == 200:
                 data = response.text
                 permission_list = [line.strip() for line in data.split("\n") if line.strip().find(unique_key) != -1]
